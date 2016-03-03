@@ -1,0 +1,14 @@
+layout_spectrum: 0.8166811
+color:
+  saturation: 0.4909234
+  lightness: 0.2714718
+  brandStrength: 0.5993608
+  brandColors:
+    - '#A4BCD8'
+    - '#916F54'
+    - '#161416'
+    - '#F3BD87'
+    - '#FCFBF2'
+  rhythmicContrast: 0.4640258
+typography_spectrum: 0.8632216
+name: Chavish
