@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.8632216
+typography_spectrum: 0.188172
 color:
-  saturation: 0.4909234
+  saturation: 0.3870968
   brandStrength: 0.6057348
-  lightness: 0.2714718
+  lightness: 0.5698925
   brandColors:
     - '#E8F2FA'
     - '#1F1616'
     - '#5B4B43'
     - '#AC9988'
     - '#DFFD39'
-  rhythmicContrast: 0.4640258
+  rhythmicContrast: 0.5286738
 layout_spectrum: 1
 name: Chavish
