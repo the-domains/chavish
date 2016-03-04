@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.188172
 color:
   saturation: 0.3870968
-  brandStrength: 0.6057348
+  brandStrength: 0.890681
   lightness: 0.5698925
   brandColors:
-    - '#E8F2FA'
-    - '#1F1616'
-    - '#5B4B43'
-    - '#AC9988'
-    - '#DFFD39'
+    - '#151516'
+    - '#424341'
+    - '#E9E9E0'
+    - '#BDBFBC'
+    - '#9AA3A1'
   rhythmicContrast: 0.5286738
-layout_spectrum: 1
+layout_spectrum: 0.03225806
 name: Chavish
