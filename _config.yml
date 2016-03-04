@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.188172
 color:
-  saturation: 0.3870968
+  saturation: 0.6577061
   brandStrength: 0.890681
-  lightness: 0.5698925
+  lightness: 0.3136201
   brandColors:
-    - '#151516'
-    - '#424341'
-    - '#E9E9E0'
-    - '#BDBFBC'
-    - '#9AA3A1'
-  rhythmicContrast: 0.5286738
+    - '#161715'
+    - '#E9FAFF'
+    - '#997E55'
+    - '#77281F'
+    - '#3C8097'
+  rhythmicContrast: 0.3172043
 layout_spectrum: 0.03225806
 name: Chavish
